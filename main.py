@@ -39,7 +39,7 @@ def color_save(image, labels, centers, output_folder):
 
         hex_color = "#{:02x}{:02x}{:02x}".format(*map(int, centers[label]))
 
-        output_path = os.path.join(output_folder, f'{hex_color}.jpg')
+        output_path = os.path.join(output_folder, f'{hex_color}.png')
         single_color_img.save(output_path)
 
 
