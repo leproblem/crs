@@ -11,3 +11,12 @@ Color-reducer-splitter in python
 6. Enter the amount of colors you want to separate the image to, for high quality, pick from 10 to 30, you will also be able to see the final result in the result
 7. Then type the folder's name in which all files will be saved into, it will be created if it doesn't exist same as the name basically
 You can check the `reduced_base.png` that will be automatically saved as you split an image whether you like the result or no
+
+
+## Original image:
+![image](https://github.com/leproblem/crs/assets/54072653/976122b2-cbbd-4ea1-845e-7b4b430d2160)
+
+
+## reduces_base.png
+![image](https://github.com/leproblem/crs/assets/54072653/5f5aab45-3798-4ca4-9d75-0ded3868b25f)
+(and its all saved as separate layers with hex code as their name)
